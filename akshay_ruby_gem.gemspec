@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["akshaysn1991@gmail.com"]
 
   spec.summary       = %q{My first ruby gem published}
-  spec.description   = %q{playing with ruby gem creation}
+  spec.description   = %q{sample ruby gem}
   spec.homepage      = ""
   spec.license       = "MIT"
 
